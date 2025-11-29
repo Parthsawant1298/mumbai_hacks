@@ -327,6 +327,10 @@ Companies can chat with their news data: "Show me all negative news from last we
 
 ## 📦 Installation
 
+### 🎥 Demo Video
+Watch our comprehensive demo showcasing Veritas in action:  
+**[Veritas Demo Video](https://drive.google.com/file/d/1x-W4FNfygv3ROV-H2SsP73jsrCbc-qs4/view?usp=sharing)**
+
 ### Prerequisites
 - Node.js 18+
 - Python 3.9+
